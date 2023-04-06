@@ -6,7 +6,7 @@ Welcome to our Game Store REST API project! Our team has developed a comprehensi
 
 ## Video
 
-Link of the video: 
+Link of the video: https://www.youtube.com/watch?v=5Nye35M5zBY 
 
 ## Slides
 
