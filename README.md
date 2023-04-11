@@ -50,7 +50,7 @@ To set up the Game Store REST API on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone git@github.com:bryanmax9/Netflix-Pathways-Bootcamp-Final-Project.git
+git clone git@github.com:jessieestrada/Netflix-Pathways-Bootcamp-Final-Project.git
 ```
 
 2. Navigate to the project folder:
