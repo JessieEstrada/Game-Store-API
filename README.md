@@ -1,5 +1,5 @@
 # Netflix-Pathways-Bootcamp-Final-Project: Game Store REST API
-<img src="https://i.imgur.com/Nv8uUao.png" alt="Netflix" width="100%" height="300">
+![WormHole Gaming Screenshot](gamestore/images/WormHole-Gaming-Screenshot.png)
 
 
 Welcome to our Game Store REST API project! Our team has developed a comprehensive and fully functional API that simulates the operations of a game store. We have leveraged the power of Spring Boot JPA and Java to build the necessary components, such as models, repositories, service layers, controllers, GraphQLs, and tests for the entire API.
